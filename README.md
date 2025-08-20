@@ -9,7 +9,13 @@ It then generates a personalized introduction and displays the school logo.
 
 ### App Walk-though
 
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6a12f54fa14240e18e9488a54699185c-5922d8b7a4f1b17b-full-play.gif">
+<div>
+    <a href="https://www.loom.com/share/6a12f54fa14240e18e9488a54699185c">
+    </a>
+    <a href="https://www.loom.com/share/6a12f54fa14240e18e9488a54699185c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6a12f54fa14240e18e9488a54699185c-5922d8b7a4f1b17b-full-play.gif">
+    </a>
+  </div>
    
 ### Required Features
 
